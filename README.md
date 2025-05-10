@@ -11,8 +11,6 @@
 - **Chat History** screen with timestamped conversations.
 - Ability to **reopen and continue old conversations**.
 - **Settings screen** to view and manage user details.
-- **Theme toggle**: Light/Dark mode switch.
-- **Multi-language support** and ability to select the chatbot’s language.
 - Keyword detection to allow **calendar event creation** from chat messages.
 - **Timestamps** for both user and AI messages.
 - **Responsive UI** compatible with both mobile and web platforms (via Expo).
